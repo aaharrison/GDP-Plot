@@ -1,0 +1,25 @@
+html{
+	background-color: #D3D3D3;
+}
+
+h2{
+	margin-bottom: 2px;
+	font-family: "Lucida Console";
+}
+
+p{
+	font-family: "Lucida Console";
+}
+
+#line{
+	background-color: #616161;
+	border-width: 10px;
+	border-color: #424242;
+	border-radius: 10px;
+	height: 5px;
+}
+
+hr{
+	size: 10px;
+	width: 10000px;
+}
